@@ -4,3 +4,7 @@
 
 ### Importing Flask: ###
 ![Alt text](media/ImportFlask.png)
+
+## **Activity 2** ##
+
+This repo is a clone of https://https://github.com/miguelgrinberg/flasky
