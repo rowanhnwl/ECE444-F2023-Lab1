@@ -12,3 +12,9 @@ This repo is a clone of https://https://github.com/miguelgrinberg/flasky
 ### Example 2-2: ###
 
 ![Alt text](media/NameHTML.png)
+
+## **Activity 3** ##
+
+### Chapter 3 examples result: ###
+
+![Alt text](media/NavBarTime.png)
