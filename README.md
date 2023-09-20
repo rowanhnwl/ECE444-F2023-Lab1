@@ -21,6 +21,10 @@ This repo is a clone of https://github.com/miguelgrinberg/flasky
 
 ## **Activity 4** ##
 
+### **Commits from `git log`:** ###
+
+![Alt text](media/A4GitLog.png)
+
 ### **Step 2 - Empty form:** ###
 
 ![Alt text](media/EmptyEmail.png)
